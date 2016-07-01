@@ -1,1 +1,5 @@
+# CodeBlocks generated files
 /bin/*
+*.cbp
+*.layout
+/obj/*
