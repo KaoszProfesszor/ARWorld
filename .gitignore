@@ -1,0 +1,3 @@
+/bin/bash
+/bin/bzcat /bin/bzcmp /bin/bzdiff /bin/bzegrep /bin/bzexe /bin/bzfgre
+p /bin/bzgrep /bin/bzip2 /bin/bzip2recover /bin/bzless /bin/bzmore /bin/cat /bin/chacl /bin/chgrp /bin/chmod /bin/chown /bin/chvt /bin/cp /bin/cpi
