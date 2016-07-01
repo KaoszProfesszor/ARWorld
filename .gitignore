@@ -3,3 +3,4 @@
 *.cbp
 *.layout
 /obj/*
+*.o
